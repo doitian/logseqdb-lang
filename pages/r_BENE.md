@@ -3,8 +3,20 @@ title:: r:BENE
 - BENE #card
 	- is Latin for "well."
 - benediction #card
-	- \ˌbe-nə-ˈdik-shən\
+	- \ ˌbe-nə-ˈdik-shən\
 	- A prayer that asks for God's blessing, especially a prayer that concludes a worship service.
 	- #eg The moment the bishop had finished his benediction, she squeezed quickly out of her row and darted out the cathedral's side entrance.
 	- In benediction, the bene root is joined by another Latin root, dictio, “speaking” (see [[r:DICT]]).
-	-
+- benefactor #card
+	- \ ˈbe-nə-ˌfak-tər\
+	- Someone who helps another person or group, especially by giving money.
+	- #eg An anonymous benefactor had given $15 million to establish an ecological institute at the university.
+- beneficiary #card
+	- \ ˌbe-nə-ˈfi-shē-ˌer-ē\
+	- A person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies.
+	- #eg Living in a trailer in near-poverty, she received word in the mail that her father had died, naming her as the sole beneficiary of his life-insurance policy.
+- benevolence #card
+	- \ bə-ˈnev-ləns\
+	- Kindness, generosity.
+	- #eg In those financially desperate years, the young couple was saved only by the benevolence of her elderly great-uncle.
+	- Part of benevolence comes from the Latin root meaning “wish.”
