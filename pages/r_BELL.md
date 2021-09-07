@@ -1,6 +1,6 @@
 title:: r:BELL
 
-- BELL #card #root
+- BELL #card #root #lang/en
 	- BELL comes from the Latin word meaning “war.”
 - antebellum
 	- \ˌan-ti-ˈbe-ləm\
