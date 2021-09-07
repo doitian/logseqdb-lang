@@ -1,5 +1,22 @@
 title:: r:AM
 
-- AM #card
+- AM #card #root
 	- comes from the Latin amare, “to love.” The Roman god of love was known by two different names, Cupid and Amor.
--
+- amicable #card
+	- \ ˈa-mi-kə-bəl\
+	- Friendly, peaceful.
+	- #eg Their relations with their in-laws were generally amicable, despite some bickering during the holidays.
+	- Amicable often describes relations between two groups, or especially two nations.
+- enamored #card
+	- \ i-ˈna-mərd\
+	- Charmed or fascinated; inflamed with love.
+	- #eg Rebecca quickly became enamored of the town's rustic surroundings, its slow pace, and its eccentric characters.
+- amorous #card
+	- \ ˈa-mə-rəs\
+	- Having or showing strong feelings of attraction or love.
+	- #eg It turned out that the amorous Congressman had gotten his girlfriend a good job and was paying for her apartment.
+- paramour
+	- \ ˈper-ə-ˌmu̇r\
+	- A lover, often secret, not allowed by law or custom.
+	- #eg He had been coming to the house for two years before her brothers realized that he was actually the paramour of their shy and withdrawn sister.
+	- par amour meant “through love”

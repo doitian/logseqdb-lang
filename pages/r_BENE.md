@@ -1,6 +1,6 @@
 title:: r:BENE
 
-- BENE #card
+- BENE #card #root
 	- is Latin for "well."
 - benediction #card
 	- \ ˌbe-nə-ˈdik-shən\
@@ -19,4 +19,4 @@ title:: r:BENE
 	- \ bə-ˈnev-ləns\
 	- Kindness, generosity.
 	- #eg In those financially desperate years, the young couple was saved only by the benevolence of her elderly great-uncle.
-	- Part of benevolence comes from the Latin root meaning “wish.”
+	- #root Part of benevolence comes from the Latin root meaning “wish.”
