@@ -1,6 +1,6 @@
 title:: r:BENE
 
-- BENE #card #root
+- BENE #card #root #lang/en
 	- is Latin for "well."
 - benediction #card
 	- \ ˌbe-nə-ˈdik-shən\

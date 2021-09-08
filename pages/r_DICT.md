@@ -1,3 +1,3 @@
 title:: r:DICT
 
-- DICT #card #root
+- DICT #root #lang/en
