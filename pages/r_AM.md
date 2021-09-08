@@ -15,7 +15,7 @@ title:: r:AM
 	- \ ˈa-mə-rəs\
 	- Having or showing strong feelings of attraction or love.
 	- #eg It turned out that the amorous Congressman had gotten his girlfriend a good job and was paying for her apartment.
-- paramour
+- paramour #card
 	- \ ˈper-ə-ˌmu̇r\
 	- A lover, often secret, not allowed by law or custom.
 	- #eg He had been coming to the house for two years before her brothers realized that he was actually the paramour of their shy and withdrawn sister.
